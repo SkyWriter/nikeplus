@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'nikeplus'
-  s.version     = '0.0.1'
+  s.version     = '0.0.2'
   s.date        = '2013-05-31'
   s.summary     = "NikePlus interface implementation"
   s.description = "NikePlus interface implementation"
@@ -8,7 +8,7 @@ Gem::Specification.new do |s|
   s.email       = 'sky.31338@gmail.com'
   s.files       = Dir['lib/**/*.rb']
   s.homepage    =
-    'http://rubygems.org/gems/nikeplus'
+    'http://github.com/SkyWriter/nikeplus/'
   
   s.add_dependency('yajl-ruby')
   s.add_dependency('nokogiri')
