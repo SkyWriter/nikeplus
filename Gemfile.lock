@@ -1,3 +1,10 @@
+PATH
+  remote: .
+  specs:
+    nikeplus (0.0.1)
+      nokogiri
+      yajl-ruby
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -8,5 +15,4 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  nokogiri
-  yajl-ruby
+  nikeplus!

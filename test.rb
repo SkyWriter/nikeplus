@@ -1,9 +1,6 @@
 require "bundler"
 Bundler.require
 
-require 'net/http'
-require 'pp'
-
 require_relative 'config/credentials'
 require_relative 'lib/nike_plus'
 
