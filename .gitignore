@@ -1,3 +1,4 @@
 .bundle/
 vendor/ruby
 config/credentials.rb
+nikeplus-*.gem
