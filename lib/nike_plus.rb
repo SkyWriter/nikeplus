@@ -1,3 +1,10 @@
+# private_constant stub for Ruby 1.9.2
+class Class
+  unless respond_to?(:private_constant)
+    def private_constant(arg); end
+  end
+end
+
 require 'net/http'
 require 'yajl'
 
