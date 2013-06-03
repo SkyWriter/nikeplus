@@ -1,5 +1,5 @@
 # private_constant stub for Ruby 1.9.2
-class Class
+class Module
   unless respond_to?(:private_constant)
     def private_constant(arg); end
   end

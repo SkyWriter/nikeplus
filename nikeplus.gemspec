@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'nikeplus'
-  s.version     = '0.0.3'
+  s.version     = '0.0.4'
   s.date        = '2013-06-03'
   s.summary     = "NikePlus interface implementation"
   s.description = "NikePlus interface implementation"
